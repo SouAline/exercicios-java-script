@@ -6,4 +6,4 @@ You find here:
 - Time with library <code>date</code>;
 - Average calculator with <code>if or else</code> condition;
 - Number positive or negative with <code>if or else</code> condition;
-- Vowel or consonant;
+- Vowel or consonant whit array and <code>if or else</code> condition;
